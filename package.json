@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "chalk": "^5.0.1",
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
